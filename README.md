@@ -11,5 +11,6 @@ Clone the repository and install the required packages:
 git clone https://github.com/yourusername/ALU-CRACKER.git
 cd ALU-CRACKER
 pip install tqdm
-##Usage```
+```
+Usage
 python alu_cracker.py
